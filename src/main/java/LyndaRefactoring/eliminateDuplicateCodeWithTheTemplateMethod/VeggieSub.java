@@ -1,4 +1,4 @@
-package LyndaRefactoring.templateMehtodPattern;
+package lyndaRefactoring.eliminateDuplicateCodeWithTheTemplateMethod;
 
 public class VeggieSub extends Sandwitch {
 
